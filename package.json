@@ -1,0 +1,22 @@
+{
+  "name": "wheres-waldo",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/Jayfx24/wheres-waldo#readme",
+  "bugs": {
+    "url": "https://github.com/Jayfx24/wheres-waldo/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jayfx24/wheres-waldo.git"
+  },
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "workspaces": [
+    "client",
+    "server"
+  ]
+}
